@@ -31,3 +31,22 @@ https://krpano.com/forum/wbb/index.php?page=Thread&threadID=5605
 https://parallaxvirtualtours.co.uk/blog/krpano-how-to-hide-all-hotspots.html
 
 http://www.kolor.com/wiki-en/action/view/File:Panotour_Advanced_Extraplugins-TourHighlights.png
+
+# text filed
+https://krpano.com/plugins/textfield/          text field plugin   https://krpano.com/plugins/textfield/#html5notes
+textfield plugin and text formatting in html5  https://krpano.com/forum/wbb/index.php?page=Thread&threadID=8340
+Rendering a textfield plugin within a hotspot   https://krpano.com/forum/wbb/index.php?page=Thread&threadID=4244
+HTML5 Editable Textfield PlugIn                 https://krpano.com/forum/wbb/index.php?page=Thread&postID=52434
+How to use the textfield plugin ?               https://krpano.com/forum/wbb/index.php?page=Thread&threadID=3811
+Text field example                              https://krpano.com/examples/textfield/textfield.xml
+                                                https://krpano.com/examples/118/examples/xml-usage/textstyles/textstyles.xml
+                                                https://krpano.com/examples/118/examples/xml-usage/textstyles/textstyles.html
+                                                https://krpano.com/examples/118/examples/xml-usage/tooltips/tooltips.html
+doc                                             https://krpano.com/plugins/showtext/#examples   
+how to add text hotspot use html without using textfield.swf plugin  
+                                                https://krpano.com/forum/wbb/index.php?page=Thread&threadID=13672
+Hide all hotsposts in krpano                    https://parallaxvirtualtours.co.uk/blog/krpano-how-to-hide-all-hotspots.html
+                                                http://www.kolor.com/2015/11/26/virtual-tour-software-panotour-panotour-pro-2-5-rc-1/
+
+
+
