@@ -47,6 +47,9 @@ how to add text hotspot use html without using textfield.swf plugin
                                                 https://krpano.com/forum/wbb/index.php?page=Thread&threadID=13672
 Hide all hotsposts in krpano                    https://parallaxvirtualtours.co.uk/blog/krpano-how-to-hide-all-hotspots.html
                                                 http://www.kolor.com/2015/11/26/virtual-tour-software-panotour-panotour-pro-2-5-rc-1/
-
+                                                
+                                                
+# KR Pano Context Menu
+  https://krpano.com/forum/wbb/index.php?page=Thread&threadID=6587
 
 
