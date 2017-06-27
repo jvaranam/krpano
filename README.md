@@ -53,3 +53,6 @@ Hide all hotsposts in krpano                    https://parallaxvirtualtours.co.
   https://krpano.com/forum/wbb/index.php?page=Thread&threadID=6587
 
 
+# KR Pano Plugin Interface
+  https://krpano.com/docu/plugininterface/#krpanointerface
+  https://krpano.com/docu/plugininterface/#top
