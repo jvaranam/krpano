@@ -54,5 +54,5 @@ Hide all hotsposts in krpano                    https://parallaxvirtualtours.co.
 
 
 # KR Pano Plugin Interface
-  https://krpano.com/docu/plugininterface/#krpanointerface
+  https://krpano.com/docu/plugininterface/#krpanointerface                                                                     
   https://krpano.com/docu/plugininterface/#top
